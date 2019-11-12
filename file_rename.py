@@ -1,4 +1,5 @@
 import os
+#'Note-Edit the directory however you\'d like'
 
 
 
@@ -16,7 +17,6 @@ RollNumber=input('enter roll num')
 
 
 user=input('Enter the username of your Logged in windows account')
-print('Note-Edit the directory however you\'d like')
 # define the name of the directory to be created
 path = "C:/Users/{}/Desktop/{}_{}/Project Files".format(user,Batch,RollNumber)
 
