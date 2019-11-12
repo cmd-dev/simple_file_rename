@@ -1,5 +1,5 @@
 import os
-#'Note-Edit the directory however you\'d like'
+#'Note-Edit the directory however you'd like'
 
 
 
