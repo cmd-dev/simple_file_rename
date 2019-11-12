@@ -4,6 +4,21 @@ A mini Python project to rename multiple files using python and the os module wh
 
 
 Samples-
-![image](https://user-images.githubusercontent.com/57319246/68658475-86cd8480-055b-11ea-9372-d959661a202f.png)
 
-![image](https://user-images.githubusercontent.com/57319246/68658505-9056ec80-055b-11ea-9e7f-ba50d9f0565e.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/57319246/68658683-ea57b200-055b-11ea-8288-e7904c93c5e2.png)
+
+![image](https://user-images.githubusercontent.com/57319246/68658653-dc099600-055b-11ea-
